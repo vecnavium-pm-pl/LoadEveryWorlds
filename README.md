@@ -3,6 +3,7 @@
 ## LoadEveryWorlds
 LoadEveryWorlds plugin that loads every single world on your server
 
+This plugin is for PocketMine-4 (API 4.0.0)
 
 # Features 
 
