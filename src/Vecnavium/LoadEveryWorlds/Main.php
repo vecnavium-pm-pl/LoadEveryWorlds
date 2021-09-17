@@ -2,7 +2,6 @@
 
 namespace Vecnavium\LoadEveryWorlds;
 
-
 use pocketmine\plugin\PluginBase;
 use function array_diff;
 use pocketmine\world\WorldManager;
