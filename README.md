@@ -1,9 +1,13 @@
-[![Discord](https://img.shields.io/discord/837701868649709568.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/jWFB56RqUN) 
+<p align="center">
+    <a href="https://github.com/Vecnavium/LoadEveryWorlds"></a><br>
+    <b>LoadEveryWorlds plugin that loads every single world on your server</b>
+</p>
 
-## LoadEveryWorlds
-LoadEveryWorlds plugin that loads every single world on your server
-
-This plugin is for PocketMine-4 (API 4.0.0)
+<p align="center">
+    <img alt="GitHubrelease" src="https://img.shields.io/github/v/release/Vecnavium/LoadEveryWorlds?label=release&sort=semver">
+      <img alt="Stars" src= "https://img.shields.io/github/stars/Vecnavium/LoadEveryWorlds?style=for-the-badge">
+    <a href="https://discord.gg/6M9tGyWPjr"><img src="https://img.shields.io/discord/837701868649709568?label=discord&color=7289DA&logo=discord" alt="Discord" /></a>
+</p>
 
 # Features 
 
