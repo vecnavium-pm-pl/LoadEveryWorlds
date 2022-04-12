@@ -15,7 +15,7 @@ class Main extends PluginBase {
     public function onLoad(): void {
         $this->getScheduler()->scheduleTask(new ClosureTask(function (): void {
             foreach(array_diff(scandir($this->getServer()->getDataPath() . "worlds"), [".."]) as $AllWorlds){
-                if($this->getServer()->getWorldManager()->loadWorld($AllWorlds)){
+                if($this->getServer()->getWorldManager()->loadWorld($AllWorlds, true)){
                     $this->getLogger()->info("§eWorld $AllWorlds has been loaded");
                 }
             }
