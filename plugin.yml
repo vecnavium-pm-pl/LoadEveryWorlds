@@ -2,6 +2,6 @@ name: LoadEveryWorlds
 main: Vecnavium\LoadEveryWorlds\Main
 description: LoadEveryWorlds plugin that loads every single world on your server
 api: 4.0.0
-version: 1.0.1
+version: 1.0.2
 load: STARTUP
 author: Vecnavium
